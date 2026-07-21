@@ -5,9 +5,7 @@
 
 ### Hi there 👋, I'm Ashish
 
-<a href="https://ashishdev.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Docker+%7C+Nginx+%7C+Redis+%7C+Git;Building+scalable+and+production+ready+apps" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS;500%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 <br/>
 
@@ -21,43 +19,53 @@
 <!-- ============ ABOUT ME ============ -->
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Developer** who loves building scalable web applications. I enjoy turning ideas into real world products.
+I'm a **Full Stack Developer** who enjoys building production-ready web applications — from REST APIs and authentication to Docker deployments on a VPS.
 
-- 🎓 &nbsp; B.Tech CSE at **Lovely Professional University**
-- 💻 &nbsp; Full Stack **MERN** Developer
-- 🔥 &nbsp; Solved **300+ DSA** problems
-- 🚀 &nbsp; Built production ready applications
-- ☁️ &nbsp; Deployed on **VPS** using **Docker & Nginx**
-- 🧠 &nbsp; Always learning and exploring new tech
-- 📫 &nbsp; Reach me at **neptunecube@gmail.com**
+- 🎓 &nbsp; B.Tech CSE at **Lovely Professional University** (CGPA 7.18)
+- 💼 &nbsp; Full Stack Web Development Intern at **SparkIIT** (Sep – Dec 2025)
+- 🚀 &nbsp; Currently building **TradeEngine**, a production MERN e-commerce platform
+- 🔥 &nbsp; Solved **500+ DSA problems** — **270** on LeetCode, **233** on GeeksforGeeks
+- 🏆 &nbsp; LeetCode contest rating **1412** · **100 Days Badge** (2025, 2026)
+- ☁️ &nbsp; Deploying with **Docker, Nginx, VPS and Cloudflare**
+- 📫 &nbsp; Reach me at **ashishs8927@gmail.com**
 
 ---
 
 <!-- ============ TECH STACK ============ -->
 ## ⚡ Tech Stack
 
+**Languages**
+
+<p><img src="https://skillicons.dev/icons?i=java,js,mysql,html,css" /></p>
+
 **Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,tailwind" /></p>
 
 **Backend**
 
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1f6feb?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-**DevOps & Tools**
+**DevOps & Cloud**
+
+<p><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,nginx,cloudflare" /></p>
+
+**Tools & Platforms**
+
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" /></p>
+
+**Core CS**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,postman,vscode" />
-</p>
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp" />
+  <img src="https://img.shields.io/badge/DSA-8957e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOPs-8957e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/DBMS-8957e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-8957e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-8957e5?style=flat-square" />
 </p>
 
 ---
@@ -69,70 +77,41 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 TradeEngine Nepal
-MERN e-commerce platform with multi-vendor support, cart, payments, order tracking and admin dashboard.
+### 🛒 TradeEngine
+**Full-Stack E-Commerce Platform** · May 2026 – Present
 
-`React` `Node.js` `MongoDB` `Docker`
+Production-ready MERN platform supporting customer, seller and admin workflows. REST APIs with JWT auth, Google OAuth and role-based authorization. Product catalog, advanced search & filtering, cart, order tracking and an admin analytics dashboard. Deployed with Docker, Nginx, VPS and Cloudflare.
 
-[Repo](https://github.com/ashish9753) • [Live](https://ashishdev.com)
+`React` `Node.js` `Express` `MongoDB` `Docker` `Nginx`
 
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-My personal portfolio built with React, Tailwind CSS and modern animations.
-
-`React` `Tailwind` `JavaScript`
-
-[Repo](https://github.com/ashish9753) • [Live](https://ashishdev.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📘 DSA Sheet
-A collection of DSA problems and solutions with notes and approaches.
-
-`Java` `JavaScript`
-
-[Repo](https://github.com/ashish9753)
+[Repo](https://github.com/ashish9753) • [Live](https://github.com/ashish9753)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏫 School Management System
-MERN based school management system with authentication and role based access.
+### 📘 DSA Practice Sheet
+**Interview Preparation Platform** · Dec 2025 – Mar 2026
 
-`React` `Node.js` `MongoDB`
+Full-stack MERN platform for structured DSA learning with real-time progress tracking. Secure JWT authentication with role-based access and protected routes. Features problem tracking, level-based progression (Bronze → Grandmaster) and a GitHub-style activity heatmap.
 
-[Repo](https://github.com/ashish9753)
+`React` `Node.js` `Express` `MongoDB` `Tailwind`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🪵 Shyam Veneer
-Accounting & inventory management system for plywood business.
-
-`React` `Node.js` `MongoDB`
-
-[Repo](https://github.com/ashish9753)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 EVS Website
-ENVS website built using HTML, CSS and JavaScript.
-
-`HTML` `CSS` `JavaScript`
-
-[Repo](https://github.com/ashish9753)
+[Repo](https://github.com/ashish9753) • [Live](https://github.com/ashish9753)
 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ============ EXPERIENCE ============ -->
+## 💼 Experience
+
+**SparkIIT** — Full Stack Web Development Intern *(Hybrid, Sep – Dec 2025)*
+
+- Developed 4 full-stack web applications using React.js and Tailwind CSS, improving UI responsiveness and reducing load time by ~25%
+- Built an Expense Tracker, an E-Commerce app (User/Admin) and a Task Manager, improving user workflow efficiency by ~30–40%
+- Designed scalable, reusable components with optimized state management, cutting development effort by ~20%
 
 ---
 
@@ -167,26 +146,34 @@ ENVS website built using HTML, CSS and JavaScript.
 
 ---
 
-<!-- ============ CURRENTLY WORKING ON ============ -->
-## 🌱 Currently Working On
+<!-- ============ ACHIEVEMENTS ============ -->
+## 🏆 Achievements
 
-- Building **TradeEngine Nepal**
-- Learning **System Design**
-- Exploring **DevOps** (Docker, Kubernetes)
-- Solving **DSA** daily
-- Improving English communication
+- Solved **503 DSA problems** — **270** on [LeetCode](https://leetcode.com/u/ashish9753/) and **233** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/ashish9753/)
+- Earned the **100 Days Badge** (2025 and 2026)
+- LeetCode **contest rating 1412**
 
 ---
 
-<!-- ============ CODING PROFILES ============ -->
-## 🧩 Coding Profiles
+<!-- ============ CERTIFICATES ============ -->
+## 📜 Certifications
 
-| Platform | Progress |
-| :--- | :--- |
-| 🟡 [LeetCode](https://leetcode.com/u/ashish9753/) | 240+ Problems |
-| 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/user/ashish9753/) | 300+ Problems |
-| 🟤 [CodeChef](https://www.codechef.com/users/ashish9753) | 4 ★ (Max) |
-| 🟠 [Coding Ninjas](https://www.naukri.com/code360/profile/ashish9753) | 200+ Problems |
+| Certification | Issuer | Date |
+| :--- | :--- | :--- |
+| Developing Back-End Apps with Node.js and Express | IBM · Coursera | Mar – Apr 2026 |
+| React Specialization (Basics + Advanced React) | Meta · Coursera | Sep – Oct 2025 |
+| React Basics | Meta · Coursera | Aug – Sep 2025 |
+| Cloud Computing | NPTEL · IIT Kharagpur | Jan – Apr 2025 |
+
+---
+
+<!-- ============ CURRENTLY WORKING ON ============ -->
+## 🌱 Currently Working On
+
+- Building **TradeEngine** into a fully production e-commerce platform
+- Learning **System Design**
+- Going deeper on **Kubernetes, Jenkins and AWS**
+- Solving **DSA** daily
 
 ---
 
@@ -195,10 +182,10 @@ ENVS website built using HTML, CSS and JavaScript.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ashish9753"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ashishdev.com"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:neptunecube@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/ashish9753"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ashish2208"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ashishs8927@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/ashish9753/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.geeksforgeeks.org/user/ashish9753/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 </div>
 
