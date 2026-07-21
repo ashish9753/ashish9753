@@ -27,6 +27,7 @@ I'm a **Full Stack Developer** who enjoys building production-ready web applicat
 - 🔥 &nbsp; Solved **500+ DSA problems** — **270** on LeetCode, **233** on GeeksforGeeks
 - 🏆 &nbsp; LeetCode contest rating **1412** · **100 Days Badge** (2025, 2026)
 - ☁️ &nbsp; Deploying with **Docker, Nginx, VPS and Cloudflare**
+- 🌐 &nbsp; Portfolio: **[ashishdev.com](https://ashishdev.com)**
 - 📫 &nbsp; Reach me at **ashishs8927@gmail.com**
 
 ---
@@ -120,16 +121,7 @@ Full-stack MERN platform for structured DSA learning with real-time progress tra
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashish9753&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish9753&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=ashish9753&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="streak stats" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashish9753&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 
 </div>
 
@@ -149,9 +141,15 @@ Full-stack MERN platform for structured DSA learning with real-time progress tra
 <!-- ============ ACHIEVEMENTS ============ -->
 ## 🏆 Achievements
 
-- Solved **503 DSA problems** — **270** on [LeetCode](https://leetcode.com/u/ashish9753/) and **233** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/ashish9753/)
+- Solved **503 DSA problems** — **270** on LeetCode and **233** on GeeksforGeeks
 - Earned the **100 Days Badge** (2025 and 2026)
 - LeetCode **contest rating 1412**
+
+<p>
+  <a href="https://leetcode.com/u/ashish_2208/"><img src="https://img.shields.io/badge/LeetCode-270%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/ashish_2208?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-233%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ashish_2208/"><img src="https://img.shields.io/badge/Contest%20Rating-1412-8957e5?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -182,10 +180,11 @@ Full-stack MERN platform for structured DSA learning with real-time progress tra
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ashish2208"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://ashishdev.com"><img src="https://img.shields.io/badge/Portfolio-ashishdev.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ashish2208/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ashishs8927@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/ashish9753/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.geeksforgeeks.org/user/ashish9753/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://leetcode.com/u/ashish_2208/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.geeksforgeeks.org/profile/ashish_2208?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 </div>
 
